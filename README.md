@@ -34,8 +34,10 @@ This is a simple weather app that lets you check the current weather, humidity, 
 
 ---
 
-This project was built following a YouTube tutorial:
-[https://youtu.be/MIYQR-Ybrn4?si=_fug_ouKJfiTky3C](https://youtu.be/MIYQR-Ybrn4?si=_fug_ouKJfiTky3C)
 
 ![Image](https://github.com/user-attachments/assets/3ffee224-cec1-4e6f-8b7e-2926d51ebf1a)
 ![Phone Screen](https://github.com/user-attachments/assets/ef4ff616-3cfd-482b-9238-c401409f4020)
+
+
+This project was built following a YouTube tutorial:
+[https://youtu.be/MIYQR-Ybrn4?si=_fug_ouKJfiTky3C](https://youtu.be/MIYQR-Ybrn4?si=_fug_ouKJfiTky3C)
